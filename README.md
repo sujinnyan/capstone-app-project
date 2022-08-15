@@ -1,6 +1,6 @@
 # CAPSTONE-APP
 
-<h1 align="center">#Project3 - Sign Up, Sign In Website</h1>
+<h1 align="center">#Project 3 - Sign Up, Sign In Website</h1>
 
 
 <h1 align="center">#Project Description</h1>
