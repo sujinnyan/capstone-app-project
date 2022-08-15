@@ -25,12 +25,12 @@
 <h1 align="center">#Getting Started</h1>
 <p align="center"> 
   - Link to Heroku app : https://boiling-hamlet-56691.herokuapp.com/ <br>
-  - Link to Trello :
+  - Link to Trello : https://trello.com/b/gvu8FiLF
 </p>
 
 
 <h1 align="center">#Next Steps</h1>
-<p align="center">This app will develop into a better online furniture market. It will be a space where customers write and upload articles about the furniture they want to sell themselves and sell them.</p>
+<p align="center"></p>
 
 
 <h1 align="center">#Author</h1>
