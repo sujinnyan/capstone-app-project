@@ -11,7 +11,7 @@
 
 
 <h1 align="center">#Technologies Used</h1>
-<h3>Project is created with:</h3>
+<h3 align="center">Project is created with:</h3>
 <p align="center">
 - Node JS<br>
 - Mongo DB<br>
