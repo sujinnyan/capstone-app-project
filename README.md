@@ -24,7 +24,7 @@
 
 <h1 align="center">#Getting Started</h1>
 <p align="center"> 
-  - Link to Heroku app : https://boiling-hamlet-56691.herokuapp.com/
+  - Link to Heroku app : https://boiling-hamlet-56691.herokuapp.com/ <br>
   - Link to Trello :
 </p>
 
