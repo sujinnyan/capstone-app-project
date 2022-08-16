@@ -29,9 +29,6 @@
 </p>
 
 
-<h1 align="center">#Next Steps</h1>
-<p align="center"></p>
-
 
 <h1 align="center">#Author</h1>
 <p align="center">
